@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About Me
 ---
-* 🧑🏻‍🦱 Hi I am Edmund Nillas III, a full stack web developer, and a computer graphics programmer.
+* 🧑🏻‍ Hi I am Edmund Nillas III, a full stack web developer, and a computer graphics programmer.
 * 🔭 I'm currently working on a rendering engine with OpenGL and C++ that helps visualize algorithms and develop games.
 * 🌱 I'm currently learning **React**, **MongoDB**, and **Firebase**.
 * 📫 You can reach me through the links below.
@@ -27,16 +27,18 @@ Here are some ideas to get you started:
 ---
 [![C/C++](https://img.shields.io/badge/%20-%20C%2FC%2B%2B-green?style=for-the-badge&logo=cplusplus)]()
 [![Javascript](https://img.shields.io/badge/%20-Javascript-blueviolet?style=for-the-badge&logo=javascript)]()
-[![Python](https://img.shields.io/badge/%20-python-e0722d?style=for-the-badge&logo=python)]()
+[![Python](https://img.shields.io/badge/%20-python-f0d20f?style=for-the-badge&logo=python)]()
 [![Lua](https://img.shields.io/badge/%20-lua-1bcf42?style=for-the-badge&logo=lua)]()
 
 ### Frameworks
 ---
-[![React](https://img.shields.io/badge/%20-react-752243?style=for-the-badge&logo=react)]()
-[![Firebase](https://img.shields.io/badge/%20-firebase-356b94?style=for-the-badge&logo=firebase)]()
+[![React.js](https://img.shields.io/badge/%20-react.js-e6352e?style=for-the-badge&logo=react)]()
+[![Next.js](https://img.shields.io/badge/%20-next.js-000000?style=for-the-badge&logo=nextdotjs)]()
+[![Node.js](https://img.shields.io/badge/%20-node.js-b53665?style=for-the-badge&logo=nodedotjs)]()
+[![Express.js](https://img.shields.io/badge/%20-express.js-282940?style=for-the-badge&logo=express)]()
+[![MySQL](https://img.shields.io/badge/%20-mysql-b5894a?style=for-the-badge&logo=mysql)]()
 [![MongoDB](https://img.shields.io/badge/%20-mongodb-cfc61b?style=for-the-badge&logo=mongodb)]()
-[![NodeJS](https://img.shields.io/badge/%20-nodejs-b53665?style=for-the-badge&logo=nodedotjs)]()
-[![ExpressJS](https://img.shields.io/badge/%20-expressjs-282940?style=for-the-badge&logo=express)]()
+[![Firebase](https://img.shields.io/badge/%20-firebase-356b94?style=for-the-badge&logo=firebase)]()
 
 ### Development Environment
 ---
