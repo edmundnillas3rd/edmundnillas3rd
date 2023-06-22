@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 ---
 [![React.js](https://img.shields.io/badge/%20-react.js-e6352e?style=for-the-badge&logo=react)]()
 [![Next.js](https://img.shields.io/badge/%20-next.js-000000?style=for-the-badge&logo=nextdotjs)]()
-[![Node.js](https://img.shields.io/badge/%20-node.js-b53665?style=for-the-badge&logo=nodedotjs)]()
 [![Express.js](https://img.shields.io/badge/%20-express.js-282940?style=for-the-badge&logo=express)]()
 [![MySQL](https://img.shields.io/badge/%20-mysql-b5894a?style=for-the-badge&logo=mysql)]()
 [![MongoDB](https://img.shields.io/badge/%20-mongodb-cfc61b?style=for-the-badge&logo=mongodb)]()
@@ -45,6 +44,7 @@ Here are some ideas to get you started:
 [![Fedora](https://img.shields.io/badge/%20-Fedora-e84427?style=for-the-badge&logo=fedora)]()
 [![VSCode](https://img.shields.io/badge/%20-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)]()
 [![Neovim](https://img.shields.io/badge/%20-Neovim-52135A?style=for-the-badge&logo=neovim)]()
+[![Node.js](https://img.shields.io/badge/%20-node.js-b53665?style=for-the-badge&logo=nodedotjs)]()
 
 ### Follow or Contact Me
 ---
