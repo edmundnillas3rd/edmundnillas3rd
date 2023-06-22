@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 [![React.js](https://img.shields.io/badge/%20-react.js-e6352e?style=for-the-badge&logo=react)]()
 [![Next.js](https://img.shields.io/badge/%20-next.js-000000?style=for-the-badge&logo=nextdotjs)]()
 [![Express.js](https://img.shields.io/badge/%20-express.js-282940?style=for-the-badge&logo=express)]()
+
+### Misc
+---
 [![MySQL](https://img.shields.io/badge/%20-mysql-b5894a?style=for-the-badge&logo=mysql)]()
 [![MongoDB](https://img.shields.io/badge/%20-mongodb-cfc61b?style=for-the-badge&logo=mongodb)]()
 [![Firebase](https://img.shields.io/badge/%20-firebase-356b94?style=for-the-badge&logo=firebase)]()
