@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### About Me
 ---
 * 🧑🏻‍ Hi I am Edmund Nillas III, a full stack web developer, and a computer graphics programmer.
-* 🔭 I am currently working on a rendering engine with OpenGL and C++ that helps visualize algorithms and develop games.
+* 🔭 I am currently working on a Youtube-clone website.
 * 🌱 I am currently learning **React**, **MongoDB**, and **Firebase**.
 * 📫 You can reach me through the links below.
 
