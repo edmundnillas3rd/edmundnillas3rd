@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * 🔭 I am currently working on a Youtube-clone website.
 * 🌱 I am currently learning **Postgresql** and **ASP.NET**
 * 📫 You can reach me through the links below.
+* You can view all of my portfolio right below this README.md post
 
 ### Programming Languages
 ---
