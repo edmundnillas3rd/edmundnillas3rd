@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### About Me
 ---
-* 🧑🏻‍ Hi I am Edmund Nillas III, a full stack web developer, and a computer graphics programmer.
-* 🔭 I am currently working on a Youtube-clone website.
-* 🌱 I am currently learning **Postgresql** and **ASP.NET**
+* 🧑🏻‍ Hi I am Edmund Nillas III, a full stack web developer.
+<!--* 🔭 I am currently working on a Youtube-clone website. 
+* 🌱 I am currently learning **Postgresql** and **ASP.NET**-->
 * 📫 You can reach me through the links below.
 * You can view all of my portfolio right below this README.md post
 
